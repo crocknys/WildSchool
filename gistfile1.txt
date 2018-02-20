@@ -20,13 +20,11 @@
 		</nav>
 
 		<section>
-			<article>
-				<img alt="img1" src="http://via.placeholder.com/140x140">
-				<div>
-					<p>Dangerous fellowship try to destroy the ring</p>
-					<p>Orcs, Goblins, Balrogs, protect your master Sauron !</p>
-				</div>
-			</article>
+			<img alt="img1" src="http://via.placeholder.com/140x140">
+			<div>
+				<p>Dangerous fellowship try to destroy the ring</p>
+				<p>Orcs, Goblins, Balrogs, protect your master Sauron !</p>
+			</div>
 		</section>
 	</header>
 
