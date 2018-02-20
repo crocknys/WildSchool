@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>FindTheprecious</title>
+	<meta charset="utf-8">
+</head>
+<body>
+
+	<header>
+		<nav>
+			<ul>
+				<li><h1>FindThePrecious.com</h1></li>
+				<li><a href="#fellows">Fellows</a></li>
+				<li><a href="#ring">The Ring</a></li>
+				<li><a href="#reward">Get my reward</a></li>
+				<li><a href="#hunters">Best hunters</a></li>
+				<li><a href="#army">Join the army</a></li>
+				<li><a href="#contact">Contact u</a></li>
+			</ul>
+		</nav>
+
+		<section>
+			<article>
+				<img alt="img1" src="http://via.placeholder.com/140x140">
+				<div>
+					<p>Dangerous fellowship try to destroy the ring</p>
+					<p>Orcs, Goblins, Balrogs, protect your master Sauron !</p>
+				</div>
+			</article>
+		</section>
+	</header>
+
+		<section>
+			<h2 id="fellows">Fellows wanted dead <span>(or alive if you xant to eat them later)</span></h2>
+			<nav>
+				<ul>
+					<li><button>Most wanted</button></li>
+					<li><button>Most danderous</button></li>
+					<li><button>Alfready captured</button></li>
+				</ul>
+			</nav>
+
+			<section>
+				<article>
+					<img alt="img2" src="http://via.placeholder.com/350x150">
+					<div>
+						<h3>The Wizard</h3>
+						<p>Small description ...</p>
+					</div>
+				</article>
+
+				<article>
+					<img alt="img3" src="http://via.placeholder.com/350x150">
+					<div>
+						<h3>Hobbit</h3>
+						<p>Small description</p>
+					</div>
+				</article>
+
+				<article>
+					<img alt="img4" src="http://via.placeholder.com/350x150">
+					<div>
+						<h3>Yummy Dwarf</h3>
+						<p>Small description</p>
+					</div>
+				</article>
+			</section>
+
+			<hr>
+		</section>
+
+		<section>
+			<article>
+				<h2 id="reward">I have captured one of them, how to get my reward ?</h2>
+				<div>
+					<p>Quare talis improborum consensio non modo excusatione amicitiae tegenda non est sed potius supplicio omni vindicanda est, ut ne quis concessum putet amicum vel bellum patriae inferentem sequi; quod quidem, ut res ire coepit, haud scio an aliquando futurum sit. Mihi autem non minori curae est, qualis res publica post mortem meam futura, quam qualis hodie sit.
+					Quare talis improborum consensio non modo excusatione amicitiae tegenda non est sed potius supplicio omni vindicanda est, ut ne quis concessum putet amicum vel bellum patriae inferentem sequi; quod quidem, ut res ire coepit, haud scio an aliquando futurum sit. Mihi autem non minori curae est, qualis res publica post mortem meam futura, quam qualis hodie sit.	
+					</p>
+					<a href="#contact">Contact us</a>
+				</div>
+				<p>
+					<img alt="img5" src="http://via.placeholder.com/140x140">
+				</p>					
+			</article>
+
+			<hr>
+		</section>
+
+		<section>
+			<h2 id="hunters">Best hunter</h2>
+			<article>
+				<div>
+					<img alt="img6" src="http://via.placeholder.com/140x140">
+					<div>
+						<h3>ElvesKiller22</h3>
+						<p>2 captures - <a>Profil</a></p>
+						<p>
+							<img alt="img7" src="http://via.placeholder.com/40x20">
+						</p>
+					</div>
+				</div>
+				<div>
+					<img alt="img8" src="http://via.placeholder.com/140x140">
+					<div>
+						<h3>Goblin45</h3>
+						<p>1 capture - <a>Profil</a></p>
+						<p>
+							<img alt="img9" src="http://via.placeholder.com/40x20">
+						</p>
+					</div>
+				</div>
+			</article>
+
+			<hr>
+		</section>
+
+		<section>
+			<h2 id="ring">About the ring</h2>
+			<article>
+				<h3>Ring capabilities</h3>
+				<p>What can our master Sauron do with the ring ?</p>
+				<table>
+					<tr>
+						<td>Feature</td>
+						<td>Descrition</td>
+					</tr>
+					<tr>
+						<td>Main</td>
+						<td>One ring to rules them all</td>
+					</tr>
+					<tr>
+						<td>Invisibility</td>
+						<td>You can't see me</td>
+					</tr>
+					<tr>
+						<td>Power</td>
+						<td>Destroy th worls</td>
+					</tr>
+				</table>
+			</article>
+
+			<article>
+				<h3>Why the ring is awesome ?</h3>
+				<p>My precioooooussssss ! Hrk Hrk, we want our preecioooouuusssss !!</p>
+				<div>
+					<img alt="img10" src="http://via.placeholder.com/110x110">
+					<p>Gollum</p>
+				</div>
+			</article>
+			<hr>
+		</section>
+
+		<section>
+			<h2 id="army">Join Mordor Army, we need you !</h2>
+			<article>
+				<p>
+					<img alt="img11" src="http://via.placeholder.com/140x140">
+				</p>
+				<div>
+					<p>Sed maximum est in amicitia parem esse inferiori. Saepe enim excellentiae quaedam sunt, qualis erat Scipionis in nostro, ut ita dicam, grege. Numquam se ille Philo, numquam Rupilio, numquam Mummio anteposuit, numquam inferioris ordinis amicis, Q. vero Maximum fratrem, egregium virum omnino, sibi nequaquam parem, quod is anteibat aetate, tamquam superiorem colebat suosque omnes per se posse esse ampliores volebat.Eo adducta re per Isauriam, rege Persarum bellis finitimis inligato repellenteque a conlimitiis suis ferocissimas gentes, quae mente quadam versabili hostiliter eum saepe incessunt et in nos arma moventem aliquotiens iuvant, Nohodares quidam nomine e numero optimatum, incursare Mesopotamiam quotiens copia dederit ordinatus, explorabat nostra sollicite, si repperisset usquam locum vi subita perrupturus.</p>
+					<button>More info on SauronRulesThemAll.com</button>
+				</div>
+			</article>
+			<hr>
+		</section>
+
+		<section>
+			<h2 id="contact">Contact us</h2>
+			<form>
+				<input type="email" name="email_contact-us">
+				<input type="text" name="text_contact_us">
+				<select>
+					<option>I have seen on of them</option>
+					<option>I found the Precious(only if you're sure)</option>
+				</select>
+				<textarea placeholder="Your message"></textarea>
+			</form>
+		</section>
+
+		<footer>
+			<table>
+				<tr>
+					<td><a>About us</a></td>
+					<td><a>FAQ</a></td>
+				</tr>
+				<tr>
+					<td><a>Fellows</a></td>
+					<td><a>reward conditions</a></td>
+				</tr>
+				<tr>
+					<td><a>Join our army</a></td>
+					<td><a>legal mentions</a></td>
+				</tr>
+			</table>
+			<table>
+				<tr>
+					<td>Sauron</td>
+				</tr>
+				<tr>
+					<td>Follow him also on twitter</td>
+				</tr>
+			</table>
+		</footer>
+	</body>
+</html>
