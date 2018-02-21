@@ -1,11 +1,12 @@
 
  .Box
  {
- 	display: block;
+    position: relative;
  	margin-left: auto;
     margin-right: auto;
  	opacity: 0.8;
  	width: 500px;
+    height: 572px;
  }
 
 .gandalf
@@ -13,7 +14,8 @@
 	font-size: 90px;
 	color:#ffffff;
 	position: absolute;
-    top: 30%;
+    text-align: center;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: Amatic SC;
@@ -23,14 +25,12 @@
 {	
     opacity: 1;
 	position: absolute;
+    top:0.5%;
+    left: 15%;
 	font-size: 60px;
-    top: 05%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    padding: 20px;
     border-radius: 20px;
     background: #ffffff;
-    padding: 15px 70px 15px 70px;
+    padding: 5px 25px 5px 25px;
  }
 
 .gold
@@ -53,19 +53,13 @@
 	font-size: 60px;
 	color:#ffffff;
 	position: absolute;
-    top: 50%;
+    top: 80%;
     left: 50%;
-    transform: translate(-50%, -50%);
+
     font-family: Amatic SC;
 }
 
 .Box:hover .wanted
 {	
 	opacity: 0;
-	position: absolute;
-	font-size: 30px;
-    top: 15%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    padding: 15px 70px 15px 70px;
  }
