@@ -4,16 +4,14 @@
 <head>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="GandalfPortrait.css">
+    <link rel="stylesheet" type="text/css" href="gandalf.css">
     <title>FindThePrecious</title>
 </head>
 
 <body>
     <div class="Box">
+          <img class="img" src="http://images.innoveduc.fr/integration_gandalf.png" alt="portrait">
           <p class="gandalf">Gandalf</p>
-          <p class="wanted">Reward <a class="gold">1000</a> golden coins</p> 
-      <div class="img" >
-          <img src="http://images.innoveduc.fr/integration_gandalf.png" alt="portrait">
-      </div>
+          <p class="wanted">Reward <a class="gold">1000</a><br> golden coins</p> 
     <div>
   </body>
